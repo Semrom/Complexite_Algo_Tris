@@ -9,8 +9,8 @@ Le projet est conçu dans le cadre des cours de complexité algorithmique. L'obj
 
 Mon coéquipier : Rémi SOULIER
 
-Plus d'informations : https://semrom.fr/projets/complexite-theorique.php
+Plus d'informations : https://romain-semler.fr/projets/complexite-theorique.php
 
-Rapport du projet : http://urlz.fr/2XRh
+Rapport du projet : https://urlz.fr/e5jU
 
 Romain Semler ©2015
